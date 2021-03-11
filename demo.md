@@ -1,3 +1,3 @@
 # Demo File
 
-This is a line initially added to the file.
+This is an updated line committed directly to the main branch.
